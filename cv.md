@@ -32,3 +32,13 @@ function multiply(a, b){
 let result = multiply(2, 4);
 console.log(result);
 ```
+## Education
+
+* **Higher education:** 2007-2012 – Belarusian State University.  Specialization: Jurisprudence
+* **Courses:**
+    + April 2022 - Software Testing Introduction  Course (by Epam)
+    + September 2021 – December 2021–Educational Center for Programming and High Tech (IT-Academy)  
+        Course: Functional Testing of Software [Certificate](https://drive.google.com/file/d/10kqt7ISHfQh9-PlbAO-iTqOuN1V-pGEe/view)
+
+## English proficiency level:
+* Intermediate (B1)
