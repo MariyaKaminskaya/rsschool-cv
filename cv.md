@@ -13,3 +13,13 @@
 
 I am striving to work in the area where I can constantly develop, communicate with passionate people and keep up with the times.  
 That's why I choose RSschool.
+
+## Skills
+
+* HTML
+* CSS
+* Git/GitHub
+* JavaScript (Basics)
+* MySQL (Basics)
+* DevTools
+* Software testing theory knowledge
