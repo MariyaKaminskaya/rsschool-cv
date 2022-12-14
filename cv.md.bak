@@ -26,9 +26,11 @@ That's why I choose RSschool.
 
 ## Code Example
 ```
-function myLanguages(results) {
-  return Object.keys(results).sort((a,b) => results[a] < results[b]).filter(item => results[item] >= 60);
+function multiply(a, b){
+  return a * b
 }
+let result = multiply(2, 4);
+console.log(result);
 ```
 ## Education
 
