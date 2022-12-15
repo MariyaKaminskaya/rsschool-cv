@@ -104,14 +104,144 @@ main {
     justify-content: space-between;
 }
 
+.section-title {
+    padding-left: 35px;
+}
+
 aside {
     padding-left: 35px;
     width: 30%;
 }
 
+.contacts-list {
+    list-style: none;
+}
+
+.contact-item-loc {
+    background: transparent url(./assets/icon/icon-location.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.contact-item-phone {
+    background: transparent url(./assets/icon/icon-phone.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.contact-item-mail {
+    background: transparent url(./assets/icon/icon-mail.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.contact-item-linkedin {
+    background: transparent url(./assets/icon/icon-linkedin.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.contact-item-discord {
+    background: transparent url(./assets/icon/icon-discord.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.contact-item-github {
+    background: transparent url(./assets/icon/icons-github.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: #294d32;
+}
+
+.contact-link:hover {
+    text-decoration: underline;
+}
+
+.skills-list {
+    padding-left: 35px;
+    list-style: none;
+}
+
+.skill-html {
+    background: transparent url(./assets/icon/ico-html.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.skill-css {
+    background: transparent url(./assets/icon/ico-css3.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.skill-js {
+    background: transparent url(./assets/icon/ico-JS.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.skill-devtools {
+    background: transparent url(./assets/icon/ico-devtools.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.skill-mysql {
+    background: transparent url(./assets/icon/ico-mysql.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.skill-git {
+    background: transparent url(./assets/icon/ico-git.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.skill-testing {
+    background: transparent url(./assets/icon/ico-software-testing.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+}
+
+.lang-list {
+    padding-left: 35px;
+    list-style: none;
+}
+
+.language {
+    background: transparent url(./assets/icon/ico-language-skill.png) no-repeat left center;
+    background-size: 23px;
+    padding-left: 40px;
+
+}
 article {
     padding-left: 35px;
-    width: 70%;
+    width: 60%;
+}
+
+p {
+    padding-left: 35px;
+    text-align: left;
+}
+
+p span {
+    font-weight: bold;
+}
+
+li::marker {
+    color: #294d32;
+    font-size: 20px;
+}
+
+.code-wrap {
+    padding-left: 35px;
+    background: #dbf7df;
 }
 
 .footer-list {
@@ -129,7 +259,6 @@ article {
     color: #000000;
     text-decoration: none;
     transition: 0.3s;
-
 }
 
 .footer-link:hover {
