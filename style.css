@@ -220,7 +220,7 @@ aside {
     padding-left: 40px;
 
 }
-article {
+.main-info {
     padding-left: 35px;
     width: 60%;
 }
@@ -264,3 +264,4 @@ li::marker {
 .footer-link:hover {
     transform: scale(2.05);
 }
+
