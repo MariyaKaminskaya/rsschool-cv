@@ -23,3 +23,9 @@ That's why I choose RSschool.
 * MySQL (Basics)
 * DevTools
 * Software testing theory knowledge
+## Code Example
+```
+function myLanguages(results) {
+  return Object.keys(results).sort((a,b) => results[a] < results[b]).filter(item => results[item] >= 60);
+}
+```
